@@ -1,6 +1,7 @@
 {
   "name": "photo-port",
   "version": "0.1.0",
+  "homepage": "http://thenlie.github.io/photo-port",
   "private": true,
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",
@@ -35,6 +36,7 @@
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.1",
-    "@testing-library/react": "^12.1.2"
+    "@testing-library/react": "^12.1.2",
+    "gh-pages": "^3.2.3"
   }
 }
