@@ -30,7 +30,7 @@ function ContactForm() {
     }
     return (
         <section>
-            <h1>Contact Me</h1>
+            <h1 data-testid='contact'>Contact Me</h1>
             <form id='contact-form' onSubmit={handleSubmit}>
                 <div>
                     <label htmlFor='name'>Name:</label>
